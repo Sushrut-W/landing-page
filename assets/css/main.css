@@ -15,6 +15,29 @@ section {
 	scroll-margin-top: 100px;
 }
 
+.section_headers {
+	font-size: x-large;
+}
+/*
+.section_points {
+	font-weight: 600;
+}
+*/
+#links {
+	margin-left: 35%;
+	padding-left: 10%;
+	padding-right: 10%;
+	border-radius: 2rem;
+}
+
+#leadership_header {
+	margin-bottom: 0;
+}
+
+#lead_point1, #lead_point2, #lead_point3, #lead_point4 {
+	font-size: 0.75rem;
+}
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -1868,7 +1891,7 @@ input, select, textarea {
 		-ms-transition: background-color 0.25s ease-in-out, box-shadow 0.25s ease-in-out, color 0.25s ease-in-out;
 		transition: background-color 0.25s ease-in-out, box-shadow 0.25s ease-in-out, color 0.25s ease-in-out;
 		background-color: transparent;
-		border-radius: 0.325rem;
+		border-radius: 1rem; /* orig val: 0.325rem*/
 		border: 0;
 		box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
 		color: #000000 !important;
