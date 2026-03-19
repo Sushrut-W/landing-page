@@ -7,6 +7,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: rgb(255, 255, 255);
 }
 
 html {
@@ -428,8 +429,8 @@ footer p {
 }
 
 #previous-website {
-  color: rgb(163, 163, 163);
+  color: rgb(219, 219, 219);
   text-decoration: underline;
   text-underline-offset: 0.5rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: rgb(219, 219, 219);
 }
